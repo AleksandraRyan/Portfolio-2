@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&display=swap');
+
+.font-family {
+  font-family: 'Crimson Text', serif;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  color: #000;
+}
+
+.navbar-brand:hover {
+  color: #000;
+}
+
+.nav-link {
+  font-size: 18px;
+  color: #000 !important;
+  text-align: center;
+}
+
+.nav-link:hover {
+  color: #fff !important;
+}
+
+.footer-logo {
+  font-size: 30px;
+}
