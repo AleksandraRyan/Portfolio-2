@@ -23,6 +23,11 @@
   color: #fff !important;
 }
 
+.hover:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
 .footer-logo {
   font-size: 30px;
 }
